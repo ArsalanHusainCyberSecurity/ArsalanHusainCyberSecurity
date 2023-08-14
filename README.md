@@ -19,8 +19,8 @@
 - An aspiring cybersecurity professional
 - Playing CTF's in spare time
 - Currently learning python and many cybersecurity tools
-- [Linkedin link](https://www.linkedin.com/in/arsalan-husain/)
-- I’m currently open for a new job opportunity, [my resume](https://github.com/ArsalanHusainCyberSecurity/Resume/blob/main/Arsalan%20Husain%20Resume%20(8).pdf)
+- View my Linkedin [Here](https://www.linkedin.com/in/arsalan-husain/)
+- I’m currently open for a new job opportunity, [My Resume](https://github.com/ArsalanHusainCyberSecurity/Resume/blob/main/Arsalan%20Husain%20Resume%20(8).pdf)
 
 <br>
 
@@ -62,13 +62,6 @@
 - [Linux Systems Permissions, User Management, and Security Auditing](https://docs.google.com/document/d/1rkXpMz0pItwExkLVDZSBK43qC7L8KqRlkNwnz0tVBTw/edit?usp=sharing)
 
 <br>
-
-- **Languages**:
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-
-- **Cybersecurity Programs**:
 
 <!-- Content for Cybersecurity Programs -->
 
