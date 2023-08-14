@@ -19,7 +19,7 @@
 - Playing CTF's at spare time
 - Currently learning python and many cybersecurity tools
 - [Linkedin link](https://www.linkedin.com/in/arsalan-husain/)
-- I’m currently open for a new job opportunity, [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for a new job opportunity, [my resume](https://github.com/ArsalanHusainCyberSecurity/Resume/blob/main/Arsalan%20Husain%20Resume%20(8).pdf)
 
 <br>
 
@@ -42,9 +42,21 @@
   - [Penetration Testing: Exploiting Web Application, Linux Servers, and Windows Servers](https://docs.google.com/document/d/1qVog1rDJeq0m7_xRCKzbamKF61mwz4KRXU0KKmK4dS0/edit?usp=sharing)
   - [Cybersecurity Evaluation : Rekall Corp Vulnerability Report ](https://docs.google.com/document/d/1qVog1rDJeq0m7_xRCKzbamKF61mwz4KRXU0KKmK4dS0/edit?usp=sharing)
   - [Using Burpsuite, Injections and Beef to Test Web Application Vulnerabilities ](https://docs.google.com/document/d/15T_rOnly7VaZiDOgDq2b-8V-jyUvTV-dcqzZn1TPRqM/edit?usp=sharing)
+  - [Cryptography Challenge: Ransomware Riddles](https://docs.google.com/document/d/1Qhb7anw23gH_q9f9RZ7Wn_XxpieLgvt2agVUJ586eQg/edit?usp=sharing)
+  - [Advanced Bash: Owning the System](https://docs.google.com/document/d/1VL_glgBVx1Xo97-9mRELlhBXFhwSWSpMtFCsjFs5Fy4/edit?usp=sharing)
+  - [Assessing and Enhancing Organizational Security Culture](https://docs.google.com/document/d/1cOdN1_wgg78y6Dpztru2o4bXDvLxwHEjWdDj2AQ3i84/edit?usp=sharing)
+  
+
+### Network Vulnerabilities
+- [In a Network Far, Far Away!](https://docs.google.com/document/d/1v_vu9mROy56zwocmY2d8gnyaE9lO-xl18E2945_TPEA/edit?usp=sharing)
+- [Advanced Bash: Owning the System](https://docs.google.com/document/d/1dXl1gsNPfXeIugq19ffeEPeoZxqMemf2JbGgrZatn28/edit?usp=sharing)
 
 ### Forensics Projects
   - [Digital Forensics Analysis Report: National Gallery DC Incident ](https://docs.google.com/document/d/1OuzuL_VOmo2-Te8RlZeYgHPhASidS1U5Kd9nRd8QDas/edit?usp=sharing)
+
+### Linux Administration
+- [Data Archiving, Automated Tasks, and Log Management in Cybersecurity](https://docs.google.com/document/d/12IzR_xXiSWyGSod-7MIQDp5L37PRGgNxh-rbFwforkA/edit?usp=sharing)
+- [Linux Systems Permissions, User Management, and Security Auditing](https://docs.google.com/document/d/1rkXpMz0pItwExkLVDZSBK43qC7L8KqRlkNwnz0tVBTw/edit?usp=sharing)
 
 <br>
 
