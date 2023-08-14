@@ -38,11 +38,13 @@
   - [Managing a SIEM Through Splunk](https://docs.google.com/presentation/d/1eFGcqFonjLHg5jKwRlVcJb7h74XN7QClyX0tZARoTJM/edit#slide=id.g630a814dc5_0_53)
 
 
-### Python Projects
-<!-- Content for Python Projects -->
+### Penetration Testing Projects
+  - [Penetration Testing: Exploiting Web Application, Linux Servers, and Windows Servers](https://docs.google.com/document/d/1qVog1rDJeq0m7_xRCKzbamKF61mwz4KRXU0KKmK4dS0/edit?usp=sharing)
+  - [Cybersecurity Evaluation : Rekall Corp Vulnerability Report ](https://docs.google.com/document/d/1qVog1rDJeq0m7_xRCKzbamKF61mwz4KRXU0KKmK4dS0/edit?usp=sharing)
+  - [Using Burpsuite, Injections and Beef to Test Web Application Vulnerabilities ](https://docs.google.com/document/d/15T_rOnly7VaZiDOgDq2b-8V-jyUvTV-dcqzZn1TPRqM/edit?usp=sharing)
 
-### Firewall Projects
-<!-- Content for Firewall Projects -->
+### Forensics Projects
+  - [Digital Forensics Analysis Report: National Gallery DC Incident ](https://docs.google.com/document/d/1OuzuL_VOmo2-Te8RlZeYgHPhASidS1U5Kd9nRd8QDas/edit?usp=sharing)
 
 <br>
 
