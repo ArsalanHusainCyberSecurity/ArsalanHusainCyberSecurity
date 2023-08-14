@@ -33,7 +33,10 @@
 <p align="center">
 
 ### SIEM Projects
-<!-- Content for SIEM Projects -->
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ArsalanHusainCyberSecurity/AzureSentinelMAPwithLIVECYBERATTACKS)
+  - [Using Splunk to Detect Attacks](https://docs.google.com/document/d/1x5Y5XtZbKr2FSJaY-6lpV217s-Gk32k5wLaRokl_2Dc/edit?usp=sharing)
+  - [Managing a SIEM Through Splunk](https://docs.google.com/presentation/d/1eFGcqFonjLHg5jKwRlVcJb7h74XN7QClyX0tZARoTJM/edit#slide=id.g630a814dc5_0_53)
+
 
 ### Python Projects
 <!-- Content for Python Projects -->
