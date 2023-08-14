@@ -19,7 +19,7 @@
 - Playing CTF's at spare time
 - Currently learning python and many cybersecurity tools
 - [Linkedin link](https://www.linkedin.com/in/arsalan-husain/)
-- I’m currently open for an Intern or a new job opportunity, [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for a new job opportunity, [my resume](https://read.cv/0xabdulkhalid)
 
 <br>
 
