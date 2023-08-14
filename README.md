@@ -45,7 +45,9 @@
   - [Cryptography Challenge: Ransomware Riddles](https://docs.google.com/document/d/1Qhb7anw23gH_q9f9RZ7Wn_XxpieLgvt2agVUJ586eQg/edit?usp=sharing)
   - [Advanced Bash: Owning the System](https://docs.google.com/document/d/1VL_glgBVx1Xo97-9mRELlhBXFhwSWSpMtFCsjFs5Fy4/edit?usp=sharing)
   - [Assessing and Enhancing Organizational Security Culture](https://docs.google.com/document/d/1cOdN1_wgg78y6Dpztru2o4bXDvLxwHEjWdDj2AQ3i84/edit?usp=sharing)
-  
+
+### Python Projects
+- [Creating Ransomware in Python](https://github.com/ArsalanHusainCyberSecurity/PythonRansomeware/blob/main/README.md)
 
 ### Network Vulnerabilities
 - [In a Network Far, Far Away!](https://docs.google.com/document/d/1v_vu9mROy56zwocmY2d8gnyaE9lO-xl18E2945_TPEA/edit?usp=sharing)
