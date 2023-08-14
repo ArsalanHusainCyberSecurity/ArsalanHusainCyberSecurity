@@ -11,7 +11,8 @@
 
 <br>
 
-<b>About me</b>
+
+<h2 align="center"><b>About Me</b></h2>
 
 <br>
 
