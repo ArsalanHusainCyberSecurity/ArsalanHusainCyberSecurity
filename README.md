@@ -40,7 +40,7 @@
 
 
 ### Penetration Testing Projects
-  - [AWS S3 Bucket Capture The Flag](https://github.com/ArsalanHusainCyberSecurity/AWSBucketPenTest/blob/main/README.md)
+  - [AWS S3 Bucket Vulnerability Capture The Flag](https://github.com/ArsalanHusainCyberSecurity/AWSBucketPenTest/blob/main/README.md)
   - [Penetration Testing: Exploiting Web Application, Linux Servers, and Windows Servers](https://docs.google.com/document/d/1qVog1rDJeq0m7_xRCKzbamKF61mwz4KRXU0KKmK4dS0/edit?usp=sharing)
   - [Cybersecurity Evaluation : Rekall Corp Vulnerability Report ](https://docs.google.com/document/d/1qVog1rDJeq0m7_xRCKzbamKF61mwz4KRXU0KKmK4dS0/edit?usp=sharing)
   - [Using Burpsuite, Injections and Beef to Test Web Application Vulnerabilities ](https://docs.google.com/document/d/15T_rOnly7VaZiDOgDq2b-8V-jyUvTV-dcqzZn1TPRqM/edit?usp=sharing)
