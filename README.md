@@ -76,7 +76,7 @@
 
 
   - [CompTIA Security+](https://github.com/ArsalanHusainCyberSecurity/Securityplus/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
-  - [Analyze Network Traffic with TCPDump](/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=project)
-  - [Microsoft Windows Defender and Firewall forBeginners](/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=project)
+  - [Analyze Network Traffic with TCPDump](https://github.com/ArsalanHusainCyberSecurity/Securityplus/blob/main/Coursera%202KTM4DJJ2C6T.pdf)
+  - [Microsoft Windows Defender and Firewall forBeginners](https://github.com/ArsalanHusainCyberSecurity/Securityplus/blob/main/Coursera%20B8NJ75EJRUBX.pdf)
 
 </p>
