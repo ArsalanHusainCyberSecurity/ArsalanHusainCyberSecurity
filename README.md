@@ -52,6 +52,8 @@
 ### Python Projects
 - [Creating Ransomware in Python](https://github.com/ArsalanHusainCyberSecurity/PythonRansomeware/blob/main/README.md)
 - [Basic Keylogger Python](https://github.com/ArsalanHusainCyberSecurity/PythonKeylogger/blob/main/README.md)
+- [Video Game Loot Tracker](https://github.com/ArsalanHusainCyberSecurity/ForFunBDOTracker/blob/main/Bdo%20Grind%20Calculator.py)
+  
 
 ### Network Vulnerabilities
 - [In a Network Far, Far Away!](https://docs.google.com/document/d/1v_vu9mROy56zwocmY2d8gnyaE9lO-xl18E2945_TPEA/edit?usp=sharing)
