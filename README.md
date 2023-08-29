@@ -51,6 +51,7 @@
 
 ### Python Projects
 - [Creating Ransomware in Python](https://github.com/ArsalanHusainCyberSecurity/PythonRansomeware/blob/main/README.md)
+- [Deleted File in Directory Detector](https://github.com/ArsalanHusainCyberSecurity/DeletedFilesPython/blob/main/Deleted%20Files%20Detector.py)
 - [Basic Keylogger Python](https://github.com/ArsalanHusainCyberSecurity/PythonKeylogger/blob/main/README.md)
 - [Video Game Loot Tracker](https://github.com/ArsalanHusainCyberSecurity/ForFunBDOTracker/blob/main/Bdo%20Grind%20Calculator.py)
   
