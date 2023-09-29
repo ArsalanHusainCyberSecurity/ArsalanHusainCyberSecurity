@@ -33,6 +33,11 @@
 
 <p align="center">
 
+### Malware Analysis Projects
+  - [WannaCry Virus Analysis](https://github.com/ArsalanHusainCyberSecurity/MalwareAnalysis/tree/main)
+
+
+
 ### SIEM Projects
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ArsalanHusainCyberSecurity/AzureSentinelMAPwithLIVECYBERATTACKS)
   - [Using Splunk to Detect Attacks](https://docs.google.com/document/d/1x5Y5XtZbKr2FSJaY-6lpV217s-Gk32k5wLaRokl_2Dc/edit?usp=sharing)
@@ -77,6 +82,7 @@
 
 
   - [CompTIA Security+](https://github.com/ArsalanHusainCyberSecurity/Securityplus/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
+  - [Google Cybersecurity Professional](https://github.com/ArsalanHusainCyberSecurity/Securityplus/blob/main/Coursera%20N5LQE38G9NCY%20(1).pdf)
   - [Analyze Network Traffic with TCPDump](https://github.com/ArsalanHusainCyberSecurity/Securityplus/blob/main/Coursera%202KTM4DJJ2C6T.pdf)
   - [Microsoft Windows Defender and Firewall forBeginners](https://github.com/ArsalanHusainCyberSecurity/Securityplus/blob/main/Coursera%20B8NJ75EJRUBX.pdf)
 
